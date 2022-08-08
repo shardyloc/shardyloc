@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shardyloc
+- 👋 Hi, I’m @loc
 - 👀 I’m interested in ... Blockchain and App development trends
 - 🌱 I’m currently learning ... more on frameworks and their updates
 

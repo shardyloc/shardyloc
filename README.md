@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @loc
-- 👀 I’m interested in ... Blockchain and App development trends
-- 🌱 I’m currently learning ... more on frameworks and their updates
+- 👋 Hi, we are @locmpd
+- 👀 Team comprising of experts in 3d animation and Modeling, also in Digital marketing
 
 - 📫 How to reach me ... +13344229654 that's my WhatsApp number
 
